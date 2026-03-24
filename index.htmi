@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>HTML + CSS</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <html>
+  <head>
+    <meta charset="UTF-8">
+  </head>
+  <h1 style="color:red">環境保護做得好，地球唔會咁快老</h1>
+ 
+   <i>呢度係一啲關於 <ins id="one">
+    <span id="one">能源,</ins> 
+    <ins id="one"><span id="one">綠色技術,</ins>
+      </id="one"> <span id="two">等 <ins id="one"><span id="one">方面嘅資料.</ins></i></span>
+  <br>
+  </br>
+    <video controls width=40%>
+      <source src="https://cdn.pixabay.com/video/2018/10/02/18534-293472901_tiny.mp4" type="video/mp4"> </video>
+     <br></br>
+    <audio autoplay controls>
+      <source src="https://www.bensound.com/bensound-music/bensound-sweet.mp3" type="audio/mp3">
+        </audio>
+  <br>
+<b>咁好聽嘅音樂來源:</b> <ins><a href="http://www.bensound.com">http://www.bensound.com</ins></a>
+  <br>
+ <b>開發者 </b> 何晉毅 (s226469) 
+<br>
+<b>最後更新:</b> 西歷貳零貳貳年壹月壹日
+<br>
+  <hr>
+  <h2 style="color:orange"> 電</h2>
+  <img src="https://cdn.pixabay.com/photo/2016/11/23/17/59/light-1854093_1280.jpg" width=30%>
+  <br>
+  電<sup>[註：電係一種能量形式，可以產生熱、光同埋動力。]</sup> 電力由發電廠產生，之後透過電網輸送到你屋企入面。
+  <hr>
+  <h2 style="color:green">不可再生能源</h2>
+  <img src="https://cdn.pixabay.com/photo/2014/06/21/20/11/power-station-374097_1280.jpg" width=30%>
+  <br>
+  不可再生能源係指儲量有限而且無法o係使用嘅過程被取代或者補充嘅能源。不可再生能源主要分為兩大類：
+  <br>
+  <ul>
+    <li>
+      1. 化石燃料：化石燃料 <sub>（煤炭、石油/原油同天然氣）</sub> 由幾百萬年前嘅動植物遺骸埋藏而成。
+    </li>
+   <li>
+     2. 核能：核能係原子核（核心）中嘅能量。o係核電廠入面，原子核分裂會產生熱量，熱量再會轉化做電能。
+    </li>
+  </ul>
+     <hr>
+  <h2 style="color:purple">再生能源</h2>
+  <img src="https://cdn.pixabay.com/photo/2022/01/10/15/29/wind-mills-6928590_1280.jpg" width=50%>
+  <br>
+  最常見嘅再生能源係
+  <br>
+  <ol>
+    <li>
+      <i><b>水力發電、</b></i> 或者 <span id="four"> 水能</span>，佢係利用流動嘅水帶動渦輪機去發電。
+    </li>
+    <li>
+      <i><b>太陽能</b></i> 係利用多種技術將陽光轉化做可用能源。 <span id="four">太陽能可以用黎加熱啲水、加熱或者冷卻空氣，仲可以為單一家庭或者建築物發電。</span> o係大規模應用黎睇，佢可以用黎發電，為城市同埋都市人提供電力。
+    </li>
+    <li>
+      <i><b>
+風力發電</b></i> <span id="four">係利用吹過嘅風，吹郁個螺旋槳塊葉</span>令佢地好似風扇咁轉黎轉去，去產生電力。
+    </li>
+    </ol>
+    <hr>
+  <i>想搵我？</i>
+  <br>
+  😁1. <b>電話冧把</b> 23456789
+  <br>
+  ✍️2. <b>電郵地址</b> energy@btb.edu.hk
+  <br>
+  ✔️3. <b>傾計</b> 98765432
+  <hr>
+  <i>多媒體元素來源</i>
+  <br>
+  <ul>
+    <li>
+      Pexels (<a href="https://www.pexels.com"><ins>https://www.pexels.com</ins></a>)
+    </li>
+      <li>
+  Bensound(<a href="http://www.bensound.com"><ins>http://www.bensound.com</ins></a>)
+    </li>
+    <li>
+      Pixabay(<a href="https://pixabay.com"><ins>https://pixabay.com</ins></a>)
+    </li>
